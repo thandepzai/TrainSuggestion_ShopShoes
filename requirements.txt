@@ -18,7 +18,6 @@ gensim==4.3.2
 gotrue==1.2.0
 h11==0.14.0
 httpcore==0.17.3
-httpx==0.24.1
 idna==2.10
 iniconfig==2.0.0
 numpy==1.26.1
