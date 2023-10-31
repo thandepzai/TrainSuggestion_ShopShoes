@@ -9,7 +9,7 @@ colorama==0.4.6
 dataclasses==0.6
 deprecation==2.1.0
 distlib==0.3.7
-django==4.2.6
+Django==4.2.6
 django-cors-headers==4.3.0
 djangorestframework==3.14.0
 ecdsa==0.18.0
